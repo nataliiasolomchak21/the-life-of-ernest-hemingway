@@ -103,8 +103,46 @@ main {
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+    /* Header */
     #menu > li {
         font-size: 130%;
         margin-bottom: 2rem;
+    }
+}
+
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    /* Header */
+    header {
+        padding: .1rem;
+    }
+
+    #logo {
+        font-size: 180%;
+        line-height: 75px;
+        margin: 0 1rem;
+    }
+
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        height: 60px;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #menu > li {
+        padding-left: 2rem;
+        font-size: 100%;
+    }
+
+    .nav-toggle-label {
+        display: none;
     }
 }
