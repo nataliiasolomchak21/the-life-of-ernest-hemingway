@@ -1,0 +1,11 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Baskervville&family=Marcellus&display=swap');
+
+/* Using asterisk selector to override default styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    scroll-behavior: smooth;
+}
