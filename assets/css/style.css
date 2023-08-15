@@ -9,3 +9,20 @@
     outline: none;
     scroll-behavior: smooth;
 }
+
+/* General styles */
+body {
+    font-family: 'Baskervville', serif;
+    background-color: #000000;
+}
+
+section {
+    min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+p {
+    font-weight: 100;
+}
