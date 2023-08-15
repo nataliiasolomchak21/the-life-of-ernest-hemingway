@@ -28,9 +28,22 @@ p {
 }
 
 /* Header */
+header {
+    position: fixed;
+    top: 0;
+    padding: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    box-shadow: 0 2px 2px #686363;
+    background-color: #D9D9D9;
+    z-index: 100;
+}
 
 #logo {
     font-family: 'Marcellus', serif;
     text-decoration: none;
     color: #000000;
 }
+
