@@ -41,9 +41,29 @@ header {
     z-index: 100;
 }
 
-#logo {
+header a {
     font-family: 'Marcellus', serif;
-    text-decoration: none;
     color: #000000;
+    text-decoration: none;
+}
+
+#menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 130%;
+    margin-top: 1rem;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
+
+#menu > li {
+    margin-bottom: 1.5rem;
+    color: #000000;
+}
+
+#menu a:hover {
+    text-decoration: underline;
 }
 
