@@ -100,3 +100,11 @@ main {
     display: flex;
     flex-direction: column;
 }
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    #menu > li {
+        font-size: 130%;
+        margin-bottom: 2rem;
+    }
+}
