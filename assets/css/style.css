@@ -91,3 +91,12 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
+
+/* Main content */
+main {
+    /* Makes main element large enough to push the footer down */
+    flex: 1 0 auto;
+    /* Enables child element to have flex properties */
+    display: flex;
+    flex-direction: column;
+}
