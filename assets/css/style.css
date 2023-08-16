@@ -359,7 +359,24 @@ main {
 }
 
 /* Thank you page */
+.thank-you-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15rem;
+}
 
+.thank-you-box i {
+    font-size: 250%;
+    color: green;
+    margin-bottom: .5rem;
+}
+
+.thank-you-box h1 {
+    color: #000000;
+    font-size: 250%;
+}
 
 
 /* Media query: tablets and larger (768px and up) */
