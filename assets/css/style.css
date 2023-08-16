@@ -270,6 +270,25 @@ main {
     margin-bottom: 1rem;
 }
 
+/* Subscribe section */
+/* Creates styling for h2 element */
+.subscribe-heading {
+    font-size: 130%;
+    color: #ffffff;
+    padding: 1rem;
+    text-align: center;
+    background-color: #000000;
+}
+
+/* Creates a full-width centered box with aligned content using inline block and display properties */
+.subscribe-box {
+    width: 100%;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    color: #ffffff;
+}
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
