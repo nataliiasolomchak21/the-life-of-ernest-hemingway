@@ -322,8 +322,16 @@ main {
 .text-input {
     font-size: 80%;
     margin: .5rem 1rem 1rem;
-    padding: 1rem;
+    padding: .5rem;
     color: #000000;
+}
+
+/* Styles button to have spacing and makes it appear smaller than inputs */
+.subscribe-button {
+    font-size: 160%;
+    font-family: 'Baskervville', serif;
+    padding: 1rem 2rem 1rem;
+    transform: scale(0.5);
 }
 
 
