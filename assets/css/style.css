@@ -8,6 +8,7 @@
     box-sizing: border-box;
     outline: none;
     scroll-behavior: smooth;
+    scroll-padding-top: 4.5rem;
 }
 
 /* General styles */
@@ -393,7 +394,6 @@ main {
     background-color: #000000;
 }
 
-
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
@@ -407,6 +407,8 @@ main {
         padding-top: 4rem;
         margin: 2rem;
     }
+
+    
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
