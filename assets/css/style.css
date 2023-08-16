@@ -666,8 +666,7 @@ main {
         /* Makes it centered and closer to the section heading */
         position: relative;
         bottom: 3rem;
-        margin-left: 27rem;
-        margin-right: 25rem;
+        right: 12rem;
     }
     
     .text-input {
