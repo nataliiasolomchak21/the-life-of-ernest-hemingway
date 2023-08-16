@@ -613,4 +613,20 @@ main {
         aspect-ratio: 2/2;
         object-fit: contain;
     }
+
+    .biography-content {
+        padding: 1rem;
+        margin-top: 1rem;
+        max-width: 60rem;
+    }
+    
+    .biography-content h2 {
+        font-size: 130%;
+        margin-top: 1rem;
+    }
+    
+    .biography-content p {
+        font-size: 110%;
+        margin-top: 1rem;
+    }
 }
