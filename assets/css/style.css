@@ -101,7 +101,15 @@ main {
     flex-direction: column;
 }
 
-
+/* Home section */
+.home-container {
+    /* Makes two divs be vertically aligned and centered */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+}
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
