@@ -588,7 +588,7 @@ main {
         margin-top: 5rem;
         margin-left: 5rem;
     }
-    
+
     .home-container img {
         width: min-content;
     }
@@ -599,5 +599,18 @@ main {
     
     .home-content p {
         font-size: 200%;
+    }
+
+    /* Biography section */
+    .biography-container {
+        max-width: 70rem;
+        margin: auto;
+    }
+
+    .biography-box img,
+    .biography-box-grey-bg img {
+        width: 20%;
+        aspect-ratio: 2/2;
+        object-fit: contain;
     }
 }
