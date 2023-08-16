@@ -450,6 +450,26 @@ main {
     .biography-content-grey-bg p {
         font-size: 100%;
     }
+
+    /* Work section */
+    .work-heading {
+        font-size: 160%;
+    }
+
+    /* Sizes and scales images */
+    .work-box img {
+        width: 20%;
+        aspect-ratio: 3/2;
+        object-fit: contain;
+    }
+
+    .work-content h3 {
+        font-size: 110%;
+    }
+    
+    .work-content p {
+        font-size: 100%;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
