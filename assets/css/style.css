@@ -261,6 +261,14 @@ main {
     height: 100%;
 }
 
+/* Adds some inner space around quotes */
+.quotes-list {
+    padding: 2rem;
+}
+
+.quotes-list li {
+    margin-bottom: 1rem;
+}
 
 
 /* Media query: tablets and larger (768px and up) */
