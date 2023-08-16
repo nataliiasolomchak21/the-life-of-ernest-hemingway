@@ -577,4 +577,27 @@ main {
     .nav-toggle-label {
         display: none;
     }
+
+    /* Home section */
+    /* Makes all elements centered horizontally */
+    .home-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-top: 5rem;
+        margin-left: 5rem;
+    }
+    
+    .home-container img {
+        width: min-content;
+    }
+    
+    .home-content h1 {
+        font-size: 400%;
+    }
+    
+    .home-content p {
+        font-size: 200%;
+    }
 }
