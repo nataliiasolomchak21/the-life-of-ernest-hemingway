@@ -58,7 +58,7 @@ header a {
     list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1.5rem;
     color: #000000;
 }
@@ -101,10 +101,13 @@ main {
     flex-direction: column;
 }
 
+
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+
     /* Header */
-    #menu > li {
+    #menu>li {
         font-size: 130%;
         margin-bottom: 2rem;
     }
@@ -112,6 +115,7 @@ main {
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
+
     /* Header */
     header {
         padding: .1rem;
@@ -137,7 +141,7 @@ main {
         flex-direction: row;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 2rem;
         font-size: 100%;
     }
