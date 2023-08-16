@@ -620,12 +620,14 @@ main {
         max-width: 60rem;
     }
     
-    .biography-content h2 {
+    .biography-content h2,
+    .biography-content-grey-bg h2 {
         font-size: 130%;
         margin-top: 1rem;
     }
     
-    .biography-content p {
+    .biography-content p,
+    .biography-content-grey-bg p {
         font-size: 110%;
         margin-top: 1rem;
     }
