@@ -642,4 +642,23 @@ main {
         padding-left: 4rem;
         padding-right: 4rem;
     }
+
+    /* Quotes section */
+    .quotes-container {
+        /* Makes two divs reversed */
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    .quotes-container img {
+        width: 80%;
+        height: 80vh;
+        margin-top: 2rem;
+        margin-right: 4rem;
+    }
+
+    .quotes-list {
+        margin-left: 6rem;
+    }
+
 }
