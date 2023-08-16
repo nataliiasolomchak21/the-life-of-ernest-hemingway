@@ -607,6 +607,7 @@ main {
         margin: auto;
     }
 
+    /* Scales and resizes images */
     .biography-box img,
     .biography-box-grey-bg img {
         width: 20%;
@@ -630,5 +631,15 @@ main {
     .biography-content-grey-bg p {
         font-size: 110%;
         margin-top: 1rem;
+    }
+
+    /* Work section */
+    .work-container {
+        /* Puts content into two rows with three columns each */
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 4rem;
+        padding-left: 4rem;
+        padding-right: 4rem;
     }
 }
