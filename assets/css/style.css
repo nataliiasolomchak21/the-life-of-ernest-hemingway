@@ -427,6 +427,29 @@ main {
     .home-content p {
         font-size: 150%;
     }
+
+    /* Biography section */
+    .biography-heading {
+        font-size: 160%;
+    }
+
+    .biography-content {
+        margin-left: 3rem;
+    }
+
+    .biography-content-grey-bg {
+        margin-right: 2rem;
+    }
+
+    .biography-content h3,
+    .biography-content-grey-bg h3 {
+        font-size: 110%;
+    }
+
+    .biography-content p,
+    .biography-content-grey-bg p {
+        font-size: 100%;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
