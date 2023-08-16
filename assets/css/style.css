@@ -208,13 +208,33 @@ main {
     flex-direction: column;
 }
 
-/*  */
+/* Makes biography content and img element appear next to each other and reversed */
 .work-box {
     display: flex;
     flex-direction: row-reverse;
     padding: 2rem;
     border-bottom: 1px solid #ffffff;
 }
+
+/* Styles for both h3 and p elements */
+.work-content {
+    color: #ffffff;
+    margin-left: 1rem;
+    padding-top: 1rem;
+}
+
+.work-content h3 {
+    font-size: 80%;
+    font-weight: 150;
+    margin-bottom: 1rem;
+}
+
+.work-content p {
+    font-size: 60%;
+    font-weight: 150;
+    letter-spacing: 1px;
+}
+
 
 
 /* Media query: tablets and larger (768px and up) */
