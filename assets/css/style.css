@@ -308,6 +308,24 @@ main {
     letter-spacing: 1px;
 }
 
+/* Styles form to be vertically aligned and adds padding for spacing */
+.subscribe-form {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 3rem 3rem;
+}
+
+.subscribe-label {
+    margin-left: 1rem;
+}
+
+.text-input {
+    font-size: 80%;
+    margin: .5rem 1rem 1rem;
+    padding: 1rem;
+    color: #000000;
+}
+
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
