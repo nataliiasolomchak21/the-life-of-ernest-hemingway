@@ -172,6 +172,27 @@ main {
     font-size: 60%
 }
 
+/* Biography container with grey background */
+.biography-box-grey-bg {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #D9D9D9;
+}
+
+.biography-content-grey-bg {
+    text-align: center;
+    padding: 1.5rem 1rem 1rem;
+}
+
+.biography-content-grey-bg h3 {
+    font-size: 80%;
+    margin-bottom: .7rem;
+}
+
+.biography-content-grey-bg p {
+    font-size: 70%;
+}
+
 
 
 /* Media query: tablets and larger (768px and up) */
