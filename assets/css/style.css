@@ -378,6 +378,21 @@ main {
     font-size: 250%;
 }
 
+.thank-you-box-button button {
+    font-size: 130%;
+    border: 1px solid #000000;
+    color: #000000;
+    background-color: #ffffff;
+    padding: .3rem;
+    font-family: 'Baskervville', serif;
+    margin-top: 2rem;
+}
+
+.thank-you-box-button button:hover {
+    color: #ffffff;
+    background-color: #000000;
+}
+
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
