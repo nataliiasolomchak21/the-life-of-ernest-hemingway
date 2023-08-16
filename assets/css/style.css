@@ -519,6 +519,26 @@ main {
         transform: scale(0.5);
         padding: 1rem;
     }
+
+    /* Thank you page */
+    .thank-you-box {
+        margin-top: 15rem;
+    }
+
+    .thank-you-box i {
+        font-size: 700%;
+        color: green;
+        margin-bottom: .2rem;
+    }
+
+    .thank-you-box h1 {
+        color: #000000;
+        font-size: 500%;
+    }
+
+    .thank-you-box-button button {
+        font-size: 250%;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
