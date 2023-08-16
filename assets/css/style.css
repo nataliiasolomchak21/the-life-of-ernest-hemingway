@@ -334,6 +334,12 @@ main {
     transform: scale(0.5);
 }
 
+.subscribe-button:hover {
+    background-color: #000000;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}
+
 /* Footer with social media icons */
 #social-media {
     position: relative;
@@ -351,6 +357,9 @@ main {
     font-size: 170%;
     color: #000000;
 }
+
+/* Thank you page */
+
 
 
 /* Media query: tablets and larger (768px and up) */
