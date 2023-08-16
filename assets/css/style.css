@@ -663,8 +663,9 @@ main {
 
     /* Subscribe section */
     .subscribe-box {
-       position: relative;
-       bottom: 3rem;
+        /* Makes it centered and closer to the section heading */
+        position: relative;
+        bottom: 3rem;
         margin-left: 27rem;
         margin-right: 25rem;
     }
@@ -673,4 +674,20 @@ main {
         padding: .7rem;
     }
 
+    /* Thank you page */
+    .thank-you-box{
+        margin-top: 10rem;
+    }
+    
+    .thank-you-box i {
+        font-size: 600%;
+    }
+    
+    .thank-you-box h1{
+        font-size: 450%;
+    }
+    
+    .thank-you-button button{
+        font-size: 200%;
+    }
 }
