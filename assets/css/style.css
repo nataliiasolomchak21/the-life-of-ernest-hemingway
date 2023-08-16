@@ -165,12 +165,12 @@ main {
 }
 
 .biography-content h3 {
-    font-size: 90%;
+    font-size: 80%;
     margin-bottom: .7rem;
 }
 
 .biography-content p {
-    font-size: 80%
+    font-size: 70%
 }
 
 /* Biography container with grey background */
@@ -186,12 +186,12 @@ main {
 }
 
 .biography-content-grey-bg h3 {
-    font-size: 90%;
+    font-size: 80%;
     margin-bottom: .7rem;
 }
 
 .biography-content-grey-bg p {
-    font-size: 80%;
+    font-size: 70%;
 }
 
 /* Work section */
