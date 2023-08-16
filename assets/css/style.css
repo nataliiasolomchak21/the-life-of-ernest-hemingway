@@ -290,6 +290,25 @@ main {
     color: #ffffff;
 }
 
+/* Styles both h3 and p inside subscribe box */
+.subscribe-content {
+    padding: 2rem 3rem 1rem;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 4rem;
+}
+
+.subscribe-content h3 {
+    font-size: 200%;
+    margin-bottom: .5rem;
+}
+
+.subscribe-content p {
+    font-size: 110%;
+    letter-spacing: 1px;
+}
+
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
