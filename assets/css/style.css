@@ -661,4 +661,16 @@ main {
         margin-left: 6rem;
     }
 
+    /* Subscribe section */
+    .subscribe-box {
+       position: relative;
+       bottom: 3rem;
+        margin-left: 27rem;
+        margin-right: 25rem;
+    }
+    
+    .text-input {
+        padding: .7rem;
+    }
+
 }
