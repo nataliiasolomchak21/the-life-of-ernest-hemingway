@@ -509,6 +509,16 @@ main {
         margin-top: 3rem;
         margin-left: 4rem;
     }
+
+    .text-input {
+        padding: 1.3rem;
+    }
+
+    .subscribe-button {
+        font-size: 200%;
+        transform: scale(0.5);
+        padding: 1rem;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
