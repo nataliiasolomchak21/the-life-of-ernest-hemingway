@@ -498,6 +498,17 @@ main {
     .quotes-list li {
         font-size: 120%;
     }
+
+    /* Subscribe section */
+    .subscribe-heading {
+        font-size: 160%;
+    }
+
+    .subscribe-box {
+        max-width: 40rem;
+        margin-top: 3rem;
+        margin-left: 4rem;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
