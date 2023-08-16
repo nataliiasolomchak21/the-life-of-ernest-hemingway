@@ -134,6 +134,46 @@ main {
     color: #ffffff;
 }
 
+/* Biography section */
+/* Creates styling for h2 element */
+.biography-heading {
+    font-size: 130%;
+    color: #ffffff;
+    background-color: #000000;
+    padding: 1rem;
+    text-align: center;
+}
+
+/* Makes divs into column */
+.biography-container {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Makes biography content and img element appear next to each other */
+.biography-box {
+    display: flex;
+    flex-direction: row;
+    background-color: #ffffff;
+}
+
+/* Styles both h3 and p elements to make them centered and add inner space around them */
+.biography-content {
+    text-align: center;
+    padding: 1.5rem 1rem 1rem;
+}
+
+.biography-content h3 {
+    font-size: 70%;
+    margin-bottom: .7rem;
+}
+
+.biography-content p {
+    font-size: 60%
+}
+
+
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
