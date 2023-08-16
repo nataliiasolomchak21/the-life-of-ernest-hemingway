@@ -193,6 +193,28 @@ main {
     font-size: 70%;
 }
 
+/* Work section */
+.work-heading {
+    font-size: 130%;
+    color: #ffffff;
+    background-color: #000000;
+    padding: 1rem;
+    text-align: center;
+}
+
+/* Makes work-box divs aligned in a column */
+.work-container {
+    display: flex;
+    flex-direction: column;
+}
+
+/*  */
+.work-box {
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 2rem;
+    border-bottom: 1px solid #ffffff;
+}
 
 
 /* Media query: tablets and larger (768px and up) */
