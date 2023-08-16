@@ -14,7 +14,6 @@
 /* General styles */
 body {
     font-family: 'Baskervville', serif;
-    background-color: #000000;
 }
 
 section {
@@ -165,12 +164,12 @@ main {
 }
 
 .biography-content h3 {
-    font-size: 70%;
+    font-size: 80%;
     margin-bottom: .7rem;
 }
 
 .biography-content p {
-    font-size: 60%
+    font-size: 70%
 }
 
 /* Biography container with grey background */
@@ -186,12 +185,12 @@ main {
 }
 
 .biography-content-grey-bg h3 {
-    font-size: 70%;
+    font-size: 80%;
     margin-bottom: .7rem;
 }
 
 .biography-content-grey-bg p {
-    font-size: 60%;
+    font-size: 70%;
 }
 
 /* Work section */
@@ -408,7 +407,7 @@ main {
         margin: 2rem;
     }
 
-    
+
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
