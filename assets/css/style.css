@@ -103,12 +103,34 @@ main {
 
 /* Home section */
 .home-container {
-    /* Makes two divs be vertically aligned and centered */
+    /* Makes div and img inside be vertically aligned and centered */
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     margin-top: 4rem;
+}
+
+.home-container img {
+    width: 100%;
+}
+
+/* Creates inner space around h1 and p */
+.home-content {
+    padding: 2rem;
+}
+
+.home-content h1 {
+    font-size: 230%;
+    letter-spacing: 1px;
+    color: #ffffff;
+    margin-bottom: .5rem;
+}
+
+.home-content p {
+    font-size: 120%;
+    letter-spacing: 2px;
+    color: #ffffff;
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -118,6 +140,11 @@ main {
     #menu>li {
         font-size: 130%;
         margin-bottom: 2rem;
+    }
+
+    .home-container {
+        padding-top: 4rem;
+        margin: 2rem;
     }
 }
 
