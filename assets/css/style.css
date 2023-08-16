@@ -470,6 +470,34 @@ main {
     .work-content p {
         font-size: 100%;
     }
+
+    /* Quotes section */
+    .quotes-heading {
+        font-size: 160%;
+    }
+
+    /* Makes content in container div align vertically */
+    .quotes-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+    }
+
+    .quotes-container img {
+        width: 60%;
+        height: 60%;
+        margin-top: 2rem;
+        margin-left: 10rem;
+    }
+
+    .quotes-list {
+        margin: 2rem;
+    }
+
+    .quotes-list li {
+        font-size: 120%;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
