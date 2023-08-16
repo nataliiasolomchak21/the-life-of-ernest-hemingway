@@ -235,6 +235,13 @@ main {
     letter-spacing: 1px;
 }
 
+/* Styles all img elements to be the same size */
+.work-box img {
+    width: 30%;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+}
+
 
 
 /* Media query: tablets and larger (768px and up) */
