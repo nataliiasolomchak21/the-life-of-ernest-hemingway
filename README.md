@@ -29,3 +29,9 @@ The Life of Ernest Hemingway is a website that includes evidence-based informati
 ![Screenshot of the Home section's wireframe of the website using Balsamiq.](README-images/Home-section.png)
 
 The idea was to have a landing page with hero image, a heading and a paragraph. The mobile and tablet versions would look almost identical with minor adjustments added such as different font-size and image size. For the laptop and desktop version the image and text content would be displayed next to each other.
+
+##### Navbar menu
+
+![Screenshot of the Navbar menu's wireframe of the website using Balsamiq.](README-images/Screenshot%202023-08-17%20101933.png)
+
+The navbar menu is hidden with hamburger icon until triggered for mobile and tablet screen sizes. The navbar is presented in its full width for laptops and desktops.
