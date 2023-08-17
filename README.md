@@ -4,7 +4,7 @@ View the live project [here](https://nataliiasolomchak21.github.io/the-life-of-e
 
 The Life of Ernest Hemingway is a website that includes evidence-based information about the life of one of the greatest authors of the 20th century. This website focuses on his professional life, so it will be handy to those who want to know about his books, quotes and overall journey to become one of the brightest minds of the last century.
 
-![Screenshot of the website on mobile, tablet, laptop and desktop from Am I Resonsive website.](README-images/screenshot%202023-08-16%20202138.png)
+![Screenshot of the website on mobile, tablet, laptop and desktop from Am I Resonsive website.](README-images/am-i-responsive.png)
 
 ## User Experience
 
@@ -104,7 +104,7 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
   * Featured on top of the website, the full responsive navigation bar includes links to the HistoryHere Logo, Home, Biography, Work, Quotes and Subscribe sections.
   * This feature will allow user to easily navigate between the sections without the need to scroll up or down to get to a certain section.
   
-  ![Nav Bar](README-images/navbar-desktop.png)   
+  ![Nav Bar](README-images/navbar-desktop.png)
   
 * __Home section__
 
@@ -149,7 +149,7 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
 
 ### Features Left to Implement
 
-* Multimedia section that includes embedded videos/recordings of Hemingway and media adaptations of his work. 
+* Multimedia section that includes embedded videos/recordings of Hemingway and media adaptations of his work.
 * Resources Section that list of books, biographies, scholars for learning more. Links to Hemingway Foundation, house tours, museum, etc.
 * Thank you page that will give clear feedback to user after they submitted the form as well as will have a "Go to Home page for clear navigation".
 
@@ -194,3 +194,22 @@ Lighthouse(Chrome's developer tool) was used to check the performance of the web
 * Desktop
   
 ![Screenshot of Lighthouse score for desktops](README-images/lighthouse-score-desktop.png)
+
+### Manual Testing
+
+#### Screen sizes
+
+The website works well and is responsive on the following mobile devices and tablets:
+
+* Moto G Power
+* iPhone SE
+* iPhone XR
+* iPhone 12 Pro
+* Pixel 5
+* Samsung Galaxy S8+
+* Samsung Galaxy S20 Ultra
+* iPad Air
+* iPad Mini
+* Surface Duo
+* Samsung Galaxy A51/71
+* Samsung Galaxy A34
