@@ -70,20 +70,20 @@ I chose these six colours because I thought that they suited the theme of my web
 
 #### Mobile
 
-![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-mobile-one.png)
-![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-mobile-two.png)
+![Screenshot of final design of the website for mobile using Figma.](README-images/figma-design-mobile-one.png)
+![Screenshot of final design of the website for mobile using Figma.](README-images/figma-design-mobile-two.png)
 
 #### Tablet
 
-![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-tablet-one.png)
-![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-tablet-two.png)
-![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-tablet-three.png)
+![Screenshot of final design of the website for tablet using Figma.](README-images/figma-design-tablet-one.png)
+![Screenshot of final design of the website for tablet using Figma.](README-images/figma-design-tablet-two.png)
+![Screenshot of final design of the website for tablet using Figma.](README-images/figma-design-tablet-three.png)
 
 #### Desktop
 
-![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-desktop-one.png)
-![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-desktop-two.png)
-![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-desktop-three.png)
+![Screenshot of final design of the website for desktop using Figma.](README-images/figma-design-desktop-one.png)
+![Screenshot of final design of the website for desktop using Figma.](README-images/figma-design-desktop-two.png)
+![Screenshot of final design of the website for desktop using Figma.](README-images/figma-design-desktop-three.png)
 
 For the font, I used the Baskervville and Marcellus font families. The text was in black and white colours depending on what background colour the section had. All the sections had contrast between each other as well.
 
@@ -94,3 +94,21 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
 * The work section for desktop no white background as there is no need to add that much negative space.
 * The quotes section for tablet and desktop looks different as I decided to center the image.
 * There is no white background in the subscribe section as I thought there is no need for contrast there.
+
+## Features
+
+### Existing Features
+
+* __Navigational Bar__
+
+  * Featured on top of the website, the full responsive navigation bar includes links to the HistoryHere Logo, Home, Biography, Work, Quotes and Subscribe sections.
+  * This feature will allow user to easily navigate between the sections without the need to scroll up or down to get to a certain section.
+  ![Nav Bar](README-images/navbar-desktop.png)   
+  
+* __Biography section__
+
+  * Being the first section of the website, the Biography section contains hero-image, a h1 heading and a paragraph.
+  * This feature will allow user to clearly understand the purpose of this website and who this website is about.
+  ![Biography](README-images/biography-section-desktop.png)
+
+
