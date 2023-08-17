@@ -134,4 +134,17 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
   
   ![Work](README-images/quotes-section-desktop.png)
 
+* __Subscribe section__
+
+  * The Subscribe section contains a form that allow user to put in their name and email address receiving a clear feedback that their form has been submitted.
+  * This feature will be valuable to user as it allows them to receive email messages about updates on the website.
+  
+  ![Work](README-images/subscribe-section-desktop.png)
+  
+* __Footer__
+
+  * The footer allows user to visit social media pages, each opens in a separate page.
+  
+  ![Work](README-images/footer-desktop.png)
+
 
