@@ -168,3 +168,19 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
 ![W3C CSS Validator](README-images/w3c-css-validator.png)
 
 * No errors were returned when passing through the official [(Jigsaw) validation](https://validator.w3.org/)
+
+### Accessibility
+
+In order to ensure that the webiste was accessible to all users the following was done:
+
+* All images have clear alt attributes that explains what's each image is about
+* Labels were put to all the inputs
+* Aria-labels were added to all the external links to provide the purpose for them for screen readers
+
+### SEO
+
+Meta tags were put in a head of html file to tell the search engines and users more about the website and the information it contains.
+
+![Meta tags](README-images/meta-tags.png)
+
+
