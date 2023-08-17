@@ -24,39 +24,39 @@ The Life of Ernest Hemingway is a website that includes evidence-based informati
 
 ### Wireframes
 
-#### Home section
-
-![Screenshot of the home section's wireframe of the website using Balsamiq.](README-images/home-section.png)
-
-The idea was to have a landing page with hero image, a heading and a paragraph. The mobile and tablet versions would look almost identical with minor adjustments added such as different font-size and image size. For the laptop and desktop versions, the image and text content would be displayed side by side.
-
 #### Header and Navbar menu
 
-![Screenshot of the header and navbar menu's wireframe of the website using Balsamiq.](README-images/navbar.png)
+![Screenshot of the header and navbar menu's wireframe of the website using Balsamiq.](README-images/navbar-wireframe.png)
 
 The navbar menu was hidden with hamburger icon until triggered for mobile and tablet screen sizes. The navbar was presented in its full width for laptops and desktops.
 
+#### Home section
+
+![Screenshot of the home section's wireframe of the website using Balsamiq.](README-images/home-section-wireframe.png)
+
+The idea was to have a landing page with hero image, a heading and a paragraph. The mobile and tablet versions would look almost identical with minor adjustments added such as different font-size and image size. For the laptop and desktop versions, the image and text content would be displayed side by side.
+
 #### Biography section
 
-![Screenshot of the biography section's wireframe of the website using Balsamiq.](README-images/biography-section.png)
+![Screenshot of the biography section's wireframe of the website using Balsamiq.](README-images/biography-section-wireframe.png)
 
 The biography section contained a heading, text content and images that were presented in rows. The size of the text and images was changing depending on what type of screen size the user had. For mobile and tablet, it took all the width of the screen while for laptop and desktop, the content is centred.
 
 #### Work section
 
-![Screenshot of the work section's wireframe of the website using Balsamiq.](README-images/work-section.png)
+![Screenshot of the work section's wireframe of the website using Balsamiq.](README-images/work-section-wireframe.png)
 
 The work section contained a heading, text content and images that were presented in a row and positioned to go one after other. The size of the text and images was changing depending on what type of screen size the user had. For mobile and tablet, it was presented in one column while for laptop and desktop, the content was put into two separate columns.
 
 #### Quotes section
 
-![Screenshot of the quotes section's wireframe of the website using Balsamiq.](README-images/quotes-section.png)
+![Screenshot of the quotes section's wireframe of the website using Balsamiq.](README-images/quotes-section-wireframe.png)
 
 The quotes section contained a heading, text content and one image. The size of the text and image was changing depending on what type of screen size the user had. For mobile, the image took half the height of the screen. For tablet, it was positioned on the right side of the screen while for laptop and desktop, the all content took the same height of the screen size and was positioned side by side.
 
 #### Subscribe section and Footer
 
-![Screenshot of the footer and subscribe section's wireframe of the website using Balsamiq.](README-images/subscribe-section.png)
+![Screenshot of the footer and subscribe section's wireframe of the website using Balsamiq.](README-images/subscribe-section-wireframe.png)
 
 The subscribe section contained a heading, text content and form that were presented in a column. The size of text content and form was changing depending on what type of screen size the user had. The main elements that were adjusted were the inputs and button. For the footer, the size of social-media icons was the only thing I had to adjust.
 
@@ -103,12 +103,35 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
 
   * Featured on top of the website, the full responsive navigation bar includes links to the HistoryHere Logo, Home, Biography, Work, Quotes and Subscribe sections.
   * This feature will allow user to easily navigate between the sections without the need to scroll up or down to get to a certain section.
+  
   ![Nav Bar](README-images/navbar-desktop.png)   
+  
+* __Home section__
+
+  * Being the first section of the website, the Home section contains hero-image, a h1 heading and a paragraph.
+  * This feature will allow user to clearly understand the purpose of this website and who this website is about.
+  
+  ![Home](README-images/home-section-desktop.png)
   
 * __Biography section__
 
-  * Being the first section of the website, the Biography section contains hero-image, a h1 heading and a paragraph.
-  * This feature will allow user to clearly understand the purpose of this website and who this website is about.
+  * The Biography section contains a heading, and container with images and text being put side by side for pleasing visual appearnce.
+  * This feature will allow user to learn interesting facts about the life of Ernest Hemingway and see rare pictures of him.
+  
   ![Biography](README-images/biography-section-desktop.png)
+  
+* __Work section__
+
+  * The Work section contains some of the most popular Hemingway's books and a description of each of them.
+  * This feature will allow user to learn about author's work and encourage them to choose a book to review.
+  
+  ![Work](README-images/work-section-desktop.png)
+  
+* __Quotes section__
+
+  * The Quotes section contains another image of author and his quotes from some of his books and his own.
+  * This feature will allow user to understand what kind of person he was how he viewed the world around him.
+  
+  ![Work](README-images/quotes-section-desktop.png)
 
 
