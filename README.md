@@ -28,4 +28,4 @@ The Life of Ernest Hemingway is a website that includes evidence-based informati
 
 ![Screenshot of the Home section's wireframe of the website using Balsamiq.](README-images/Home-section.png)
 
-The idea was to have a landing page with hero image, a heading and a paragraph. The mobile and tablet versions would look almost identical with minor adjustments added such as diffrent font-size and image size. For the laptop and desktop version the image and text content would be displayed next to each other.
+The idea was to have a landing page with hero image, a heading and a paragraph. The mobile and tablet versions would look almost identical with minor adjustments added such as different font-size and image size. For the laptop and desktop version the image and text content would be displayed next to each other.
