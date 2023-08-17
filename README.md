@@ -147,4 +147,8 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
   
   ![Work](README-images/footer-desktop.png)
 
+### Features Left to Implement
 
+* Multimedia section that includes embedded videos/recordings of Hemingway and media adaptations of his work. 
+* Resources Section that list of books, biographies, scholars for learning more. Links to Hemingway Foundation, house tours, museum, etc.
+* Thank you page that will give clear feedback to user after they submitted the form as well as will have a "Go to Home page for clear navigation".
