@@ -379,17 +379,17 @@ main {
     font-size: 250%;
 }
 
-.thank-you-box-button button {
+.thank-you-button button {
     font-size: 130%;
     border: 1px solid #000000;
     color: #000000;
     background-color: #ffffff;
-    padding: .3rem;
+    padding: .5rem;
     font-family: 'Baskervville', serif;
     margin-top: 2rem;
 }
 
-.thank-you-box-button button:hover {
+.thank-you-button button:hover {
     color: #ffffff;
     background-color: #000000;
 }
@@ -536,8 +536,15 @@ main {
         font-size: 500%;
     }
 
-    .thank-you-box-button button {
-        font-size: 250%;
+    .thank-you-button button {
+        margin-top: 1rem;
+        padding: 1rem;
+        font-size: 200%;
+    }
+
+    .thank-you-button button:hover {
+        color: #ffffff;
+        background-color: #000000;
     }
 }
 
@@ -687,7 +694,14 @@ main {
     }
     
     .thank-you-button button{
-        font-size: 200%;
+        margin-top: 1rem;
+        padding: 1rem;
+        font-size: 150%;
+    }
+
+    .thank-you-button button:hover {
+        color: #ffffff;
+        background-color: #000000;
     }
 }
 
