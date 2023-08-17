@@ -694,6 +694,6 @@ main {
 /* Desktops (1200px and up) */
 @media screen and (min-width: 1200px) {
     .subscribe-box {
-        margin-left: 51rem;   
+        margin-left: 53%;   
     }
 }
