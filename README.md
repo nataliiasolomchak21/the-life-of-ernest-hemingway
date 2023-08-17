@@ -183,4 +183,14 @@ Meta tags were put in a head of html file to tell the search engines and users m
 
 ![Meta tags](README-images/meta-tags.png)
 
+### Lighthouse
 
+Lighthouse(Chrome's developer tool) was used to check the performance of the website on mobile devices and desktops.
+
+* Mobile
+
+![Screenshot of Lighthouse score for mobile devices](README-images/lighthouse-score-mobile.png)
+
+* Desktop
+  
+![Screenshot of Lighthouse score for desktops](README-images/lighthouse-score-desktop.png)
