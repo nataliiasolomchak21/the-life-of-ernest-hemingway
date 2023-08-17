@@ -122,7 +122,7 @@ main {
     padding: 2rem;
 }
 
-.home-content h1 {
+.home-content h2 {
     font-size: 230%;
     letter-spacing: 1px;
     color: #ffffff;
@@ -419,7 +419,7 @@ main {
         max-width: 40rem;
     }
 
-    .home-content h1 {
+    .home-content h2 {
         font-size: 270%;
         margin-bottom: 1rem;
     }
@@ -593,7 +593,7 @@ main {
         width: min-content;
     }
     
-    .home-content h1 {
+    .home-content h2 {
         font-size: 400%;
     }
     
