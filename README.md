@@ -224,4 +224,22 @@ The website works in the following browsers:
 
 In Firefox, the images in Home and Quotes sections are stretched. The images in Work section are smaller than they should be.
 
+## Technologies Used
 
+* [Figma](https://www.figma.com/) was used to create the final design of a website.
+* [Font Awesome](https://fontawesome.com/) was used for social media icons in the footer.
+* [Google Fonts](https://fonts.google.com/) was used to add specific font families to the stylesheet.
+* [Adobe Color](https://color.adobe.com/create/color-wheel) was used to create a color palette.
+* [Balsamiq](https://balsamiq.com/wireframes/?gad=1&gclid=EAIaIQobChMI0e6F_qbkgAMVBKnVCh1HRgnBEAAYASAAEgLVSvD_BwE) was used to create wireframes to show the initial layout of the website.
+* [Codeanywhere](https://codeanywhere.com/solutions/collaborate) was used to code the website.
+* [W3C validation](https://validator.w3.org/) was used to check the markup validity of html file.
+* [(Jigsaw) validation](https://validator.w3.org/) was used to check the validity of css file.
+* [Am I Responsive](https://ui.dev/amiresponsive) was used to get a screenshot of a final look of the website on various devices.
+* [Github](https://github.com/) was used to store the code of the website.
+* Chrome DevTools was used to check the responsiveness of the website as well debug it.
+* Chrome's Developer Tool Lighthouse was used to check the performance of the website.
+
+## Languages Used
+
+* HTML5 was used to create the structure of the website.
+* CSS3 was used to style the website.
