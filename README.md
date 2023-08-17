@@ -213,3 +213,15 @@ The website works well and is responsive on the following mobile devices and tab
 * Surface Duo
 * Samsung Galaxy A51/71
 * Samsung Galaxy A34
+
+### Browsers
+
+The website works in the following browsers:
+
+* Chrome
+* Opera
+* Microsoft Edge
+
+In Firefox, the images in Home and Quotes sections are stretched. The images in Work section are smaller than they should be.
+
+
