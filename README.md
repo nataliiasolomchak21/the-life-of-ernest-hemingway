@@ -132,20 +132,20 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
   * The Quotes section contains another image of author and his quotes from some of his books and his own.
   * This feature will allow user to understand what kind of person he was how he viewed the world around him.
   
-  ![Work](README-images/quotes-section-desktop.png)
+  ![Quotes](README-images/quotes-section-desktop.png)
 
 * __Subscribe section__
 
   * The Subscribe section contains a form that allow user to put in their name and email address receiving a clear feedback that their form has been submitted.
   * This feature will be valuable to user as it allows them to receive email messages about updates on the website.
   
-  ![Work](README-images/subscribe-section-desktop.png)
+  ![Subscribe](README-images/subscribe-section-desktop.png)
   
 * __Footer__
 
   * The footer allows user to visit social media pages, each opens in a separate page.
   
-  ![Work](README-images/footer-desktop.png)
+  ![Footer](README-images/footer-desktop.png)
 
 ### Features Left to Implement
 
@@ -155,4 +155,16 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
 
 ## Testing
 
-### 
+### Validator Testing
+
+#### HTML
+
+![W3C HTML Validator](README-images/w3c-html-validator.png)
+
+* No errors were returned when passing through the official [W3C validation](https://validator.w3.org/)
+
+#### CSS
+
+![W3C CSS Validator](README-images/w3c-css-validator.png)
+
+* No errors were returned when passing through the official [(Jigsaw) validation](https://validator.w3.org/)
