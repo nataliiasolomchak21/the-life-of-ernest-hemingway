@@ -70,4 +70,27 @@ I chose these six colours because I thought that they suited the theme of my web
 
 #### Mobile
 
-![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-mobile.png)
+![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-mobile-one.png)
+![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-mobile-two.png)
+
+#### Tablet
+
+![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-tablet-one.png)
+![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-tablet-two.png)
+![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-tablet-three.png)
+
+#### Desktop
+
+![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-desktop-one.png)
+![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-desktop-two.png)
+![Screenshot of final of the website for mobile using Figma.](README-images/figma-design-desktop-three.png)
+
+For the font, I used the Baskervville and Marcellus font families. The text was in black and white colours depending on what background colour the section had. All the sections had contrast between each other as well.
+
+#### Things that were changed while developing the website
+
+* The hero image on a landing page looks different in the deployed version as the first image that I used turned out to be very pixelated. It also has a lot more space around it in tablet and desktop versions.
+* The images in the Biography section for desktop have some space around them for stylistic purpose.
+* The work section for desktop no white background as there is no need to add that much negative space.
+* The quotes section for tablet and desktop looks different as I decided to center the image.
+* There is no white background in the subscribe section as I thought there is no need for contrast there.
