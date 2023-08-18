@@ -11,7 +11,7 @@ The Life of Ernest Hemingway is a single scrolling page website that includes ev
 ### Target Audience
 
 * Literature students - Those studying American literature could benefit from learning about Hemingway's major works amd place within literary history.
-* Casual readers- Those generally interested in biographies, 20th century authors, or American historical figures.
+* Casual readers - Those generally interested in biographies, 20th century authors, or American historical figures.
 * Hemingway enthusiasts - Those who have read his works and are interested in his life story.
 
 ### Key Project Goals
@@ -24,13 +24,13 @@ The Life of Ernest Hemingway is a single scrolling page website that includes ev
 
 #### First Time Visitor Goals
 
-* I want to be able to navigate website easily using a navigational menu
-* I want to see evidence-based information and high-quality images on the website
-* I want to get a clear feedback to any of initiated actions
+* I want to be able to navigate website easily using a navigational menu.
+* I want to see evidence-based information and high-quality images on the website.
+* I want to get a clear feedback to any of initiated actions.
 
 #### Frequent Visitor Goals
 
-* I want to be able to use the website across all the devices
+* I want to be able to use the website across all the devices.
   
 ## Design Stage
 
@@ -52,7 +52,7 @@ The idea was to have a landing page with hero image, a heading and a paragraph. 
 
 ![Screenshot of the biography section's wireframe of the website using Balsamiq.](README-images/biography-section-wireframe.png)
 
-The biography section contained a heading, text content and images that were presented in rows. The size of the text and images was changing depending on what type of screen size the user had. For mobile and tablet, it took all the width of the screen while for laptop and desktop, the content is centred.
+The biography section contained a heading, text content and images that were presented in rows. The size of the text and images was changing depending on what type of screen size the user had. For mobile and tablet, it took all the width of the screen while for laptop and desktop, the content was centred.
 
 #### Work section
 
@@ -64,7 +64,7 @@ The work section contained a heading, text content and images that were presente
 
 ![Screenshot of the quotes section's wireframe of the website using Balsamiq.](README-images/quotes-section-wireframe.png)
 
-The quotes section contained a heading, text content and one image. The size of the text and image was changing depending on what type of screen size the user had. For mobile, the image took half the height of the screen. For tablet, it was positioned on the right side of the screen while for laptop and desktop, the all content took the same height of the screen size and was positioned side by side.
+The quotes section contained a heading, text content and one image. The size of the text and image was changing depending on what type of screen size the user had. For mobile, the image took half the height of the screen. For tablet, it was positioned on the right side of the screen while for laptop and desktop, all content took the same height of the screen size and was positioned side by side.
 
 #### Subscribe section and Footer
 
@@ -76,7 +76,7 @@ The subscribe section contained a heading, text content and form that were prese
 
 ![Screenshot of color palette of the website using Adobe Color.](README-images/color-palette.png)
 
-I chose these six colours because I thought that they suited the theme of my website as most of my images were in black and white. I also thought that they complement each other very well.
+I chose these five colours because I thought that they suited the theme of my website as most of my images were in black and white. I also thought that they complemented each other very well.
 
 ### Final Design
 
@@ -101,12 +101,12 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
 
 #### Things that were changed while developing the website
 
-* The hero image on a landing page looks different in the deployed version as the first image that I used turned out to be very pixelated. It also has a lot more space around it in tablet and desktop versions.
-* The images in the Biography section for desktop have some space around them for stylistic purpose.
-* The work section for desktop no white background as there is no need to add that much negative space.
-* The quotes section for tablet and desktop looks different as I decided to center the image.
-* There is no white background in the subscribe section as I thought there is no need for contrast there.
-* The footer doesn't have text next to the social media icons as I thought it was unnecessary to add it.
+* The hero image on a landing page looks different in the deployed version as the first image that I used turned out very pixelated. It also has much more space around it in tablet and desktop versions.
+* The images in the Biography section for desktop have some space around them for stylistic purposes.
+* The work section for desktop has no white background as there was no need to add so much negative space.
+* The quotes section for tablet and desktop looks different as I decided to centre the image.
+* There is no white background in the Subscribe section as I thought there was no need for contrast there.
+* The footer has no text next to the social media icons as I thought it was unnecessary to add it.
 
 ## Features
 
@@ -114,57 +114,57 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
 
 * __Navigational Bar__
 
-  * Featured on top of the website, the full responsive navigation bar includes links to the HistoryHere Logo, Home, Biography, Work, Quotes and Subscribe sections.
-  * This feature will allow user to easily navigate between the sections without the need to scroll up or down to get to a certain section.
+  * Featured at the top of the website, the fully responsive navigation bar includes links to the HistoryHere Logo, Home, Biography, Work, Quotes and Subscribe sections.
+  * This feature will allow user to easily navigate between sections without the need to scroll up or down to get to a certain section.
   
   ![Nav Bar](README-images/navbar-desktop.png)
   
 * __Home section__
 
-  * Being the first section of the website, the Home section contains hero-image, a h1 heading and a paragraph.
-  * This feature will allow user to clearly understand the purpose of this website and who this website is about.
+  * As the first section of the website, the Home section contains hero image, an h1 heading and a paragraph.
+  * This feature will allow the user to clearly understand the purpose of the website and who this website is about.
   
   ![Home](README-images/home-section-desktop.png)
   
 * __Biography section__
 
-  * The Biography section contains a heading, and container with images and text being put side by side for pleasing visual appearnce.
-  * This feature will allow user to learn interesting facts about the life of Ernest Hemingway and see rare pictures of him.
+  * The Biography section contains a heading, container with images and text put side by side for pleasing visual appearance.
+  * This feature will allow the user to learn interesting facts about the life of Ernest Hemingway and see rare pictures of him.
   
   ![Biography](README-images/biography-section-desktop.png)
   
 * __Work section__
 
-  * The Work section contains some of the most popular Hemingway's books and a description of each of them.
-  * This feature will allow user to learn about author's work and encourage them to choose a book to review.
+  * The Work section contains some of the most well-known Hemingway's works and a description of each of them.
+  * This feature will allow user to learn about author's work and encourage them to choose a book to read.
   
   ![Work](README-images/work-section-desktop.png)
   
 * __Quotes section__
 
-  * The Quotes section contains another image of author and his quotes from some of his books and his own.
-  * This feature will allow user to understand what kind of person he was how he viewed the world around him.
+  * The Quotes section contains an additional image of author and his quotes from some of his books as well as his own.
+  * This feature will allow user to understand what kind of person he was as well as his perspective on the world around him.
   
   ![Quotes](README-images/quotes-section-desktop.png)
 
 * __Subscribe section__
 
-  * The Subscribe section contains a form that allow user to put in their name and email address receiving a clear feedback that their form has been submitted.
-  * This feature will be valuable to user as it allows them to receive email messages about updates on the website.
+  * The Subscribe section contains a form that allows user to enter their name and email address getting a clear confirmation that their form was successfully submitted.
+  * This feature will be valuable to user as it enables them to get email messages about updates on the website.
   
   ![Subscribe](README-images/subscribe-section-desktop.png)
   
 * __Footer__
 
-  * The footer allows user to visit social media pages, each opens in a separate page.
+  * The footer enables the user to visit social media pages, each being open in a separate page.
   
   ![Footer](README-images/footer-desktop.png)
 
 ### Features Left to Implement
 
 * Multimedia section that includes embedded videos/recordings of Hemingway and media adaptations of his work.
-* Resources Section that list of books, biographies, scholars for learning more. Links to Hemingway Foundation, house tours, museum, etc.
-* 404 page that will give clear feedback to user if any of the links don't work.
+* Resources section that includes list of books, biographies, scholars for learning more. Links to Hemingway Foundation, house tours, museum, etc.
+* 404 page that will give clear notification for the user if any links are broken.
 
 ## Testing
 
@@ -180,25 +180,25 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
 
 ![W3C CSS Validator](README-images/w3c-css-validator.png)
 
-* No errors were returned when passing through the official [(Jigsaw) validation](https://validator.w3.org/)
+* No errors were returned when passing through the official [Jigsaw](https://jigsaw.w3.org/css-validator/)
 
 ### Accessibility
 
-In order to ensure that the webiste was accessible to all users the following was done:
+To ensure that the website was accessible to all users the following steps were taken:
 
-* All images have clear alt attributes that explains what's each image is about
-* Labels were put to all the inputs
-* Aria-labels were added to all the external links to provide the purpose for them for screen readers
+* All images have clear alt attributes that explains what each image is about
+* Labels were added to all the inputs
+* Aria-labels were included to all the external links to provide the purpose for them for screen readers
 
 ### SEO
 
-Meta tags were put in a head of html file to tell the search engines and users more about the website and the information it contains.
+Meta tags were included in a head of html file to tell the search engines and users more about the website and the information it contains.
 
 ![Meta tags](README-images/meta-tags.png)
 
 ### Lighthouse
 
-Lighthouse(Chrome's developer tool) was used to check the performance of the website on mobile devices and desktops.
+Lighthouse (Chrome's developer tool) was used to assess the performance of the website across mobiles and desktops.
 
 * Mobile
 
@@ -210,13 +210,13 @@ Lighthouse(Chrome's developer tool) was used to check the performance of the web
 
 ### Manual Testing
 
-Manual testing was done on mobile device, tablet, laptop and desktop.
+Manual testing was conducted on mobile, tablet, laptop and desktop.
 
 ![Manual testing](README-images/manual-testing.png)
 
 #### Screen sizes
 
-The website works well and is responsive on the following mobile devices and tablets:
+The website works well and is responsive on the following mobiles and tablets:
 
 * Samsung Galaxy A51
 * Samsung Galaxy A34
@@ -231,22 +231,22 @@ The website works well and is responsive on the following mobile devices and tab
 
 ### Browsers
 
-The website works in the following browsers:
+The website functions in the following browsers:
 
 * Chrome
 * Opera
 * Microsoft Edge
 
-In Firefox, the images in Home and Quotes sections are stretched. The images in Work section are smaller than they should be.
+In Firefox, the images in Home and Quotes sections are stretched. The images in Work section are smaller than intended.
 
 ### Unfixed Bugs
 
-* The links in navbar menu when clicked don't stay underlined when user is in particular section. I have tried different things to make them work but unfortunately I wasn't able to do that. I guess I need JavaScript for it.
-* When you user clicks on "Go to Home page" button in Thank You page, it brings they back to index.html page but the header is hidden and doesn't have a fixed position. It all goes back to how it should be only when the page is refreshed. I couldn't find a reason to that as "Go to Home page" is correctly connected to index.html.
+* The links in navbar menu when clicked don't stay underlined when user is in particular section. I have tried various things to get them working but unfortunately I wasn't able to do so. I assume JavaScript is needed for these feature.
+* When you user clicks on "Go to Home page" button in Thank You page, it brings they back to index.html page but the header is hidden and doesn't have a fixed position. It only goes back to how it should be when the page is refreshed. I couldn't determine the reason as "Go to Home page" is correctly connected to index.html.
 
 ### Fixed Bugs
 
-* I had a problem with h2 headings of my sections. They wouldn't show up once you clicked on the link in navbar menu. My groupmate Oleksiy Lazarenko helped with that by suggesting adding scroll-padding-top to the asterisk selector.
+* I had an issue with the h2 headings of my sections. They wouldn't display once you clicked on the link in the navbar menu. My groupmate Oleksiy Lazarenko helped resolve that by suggesting adding scroll-padding-top to the asterisk selector.
 
 ## Technologies Used
 
@@ -258,10 +258,10 @@ In Firefox, the images in Home and Quotes sections are stretched. The images in 
 * [Balsamiq](https://balsamiq.com/wireframes/?gad=1&gclid=EAIaIQobChMI0e6F_qbkgAMVBKnVCh1HRgnBEAAYASAAEgLVSvD_BwE) was used to create wireframes to show the initial layout of the website.
 * [Codeanywhere](https://codeanywhere.com/solutions/collaborate) was used to code the website.
 * [W3C validation](https://validator.w3.org/) was used to check the markup validity of html file.
-* [(Jigsaw) validation](https://validator.w3.org/) was used to check the validity of css file.
+* [Jigsaw](https://jigsaw.w3.org/css-validator/) was used to check the validity of css file.
 * [Am I Responsive](https://ui.dev/amiresponsive) was used to get a screenshot of a final look of the website on various devices.
 * [Github](https://github.com/) was used to store the code of the website.
-* Chrome DevTools was used to check the responsiveness of the website as well debug it.
+* Chrome DevTools was used to check the responsiveness of the website as well as to debug it.
 * Chrome's Developer Tool Lighthouse was used to check the performance of the website.
 
 ## Languages Used
@@ -275,12 +275,12 @@ In Firefox, the images in Home and Quotes sections are stretched. The images in 
 
 The project was deployed to Github Pages using the following steps:
 
-   1. Log in to Github or sign up (if you don't have an account)
+   1. Log in to Github or sign up (if you don't have an account).
    2. Locate the repository for the project called 'the-life-of-ernest-hemingway'.
    3. Go to Settings page.
    4. Choose Pages in a navigational bar on the left-hand side.
-   5. Under 'Build and deployment', you'll see 'Source'. Choose 'Deploy to Branch' from dropdwon menu. 
-   6. Make sure that 'main' branch is selected and folder is set '/ (root)'. Click 'Save'.
+   5. Under 'Build and deployment', you'll see 'Source'. Choose 'Deploy to Branch' from dropdown menu. 
+   6. Make sure that 'main' branch is selected and folder is set to '/ (root)'. Click 'Save'.
    7. Refresh the page and you'll see the link to your website.
    8. Congratulations! Your website has been deployed.
 
@@ -298,7 +298,7 @@ The project was deployed to Github Pages using the following steps:
 3. Click on '<> Code' and copy the URL from HTTPS.
 4. Open Git Bash.
 5. Change your current working directory to the location where you want your clone to be made.
-6. Type 'git clone' into your terminal window, paste the URL you copied earlier and press Enter to create youe local clone.
+6. Type 'git clone' into your terminal window, paste the URL you copied earlier and press Enter to create your local clone.
 
 ## Credits
 
@@ -313,7 +313,7 @@ The project was deployed to Github Pages using the following steps:
 ### Images
 
 * Home section (hero image) is from [Stockvault](https://www.stockvault.net/photo/200534/ernest-hemingway)
-* Biography (all the images) are from [Esquire's website](https://www.esquire.com/entertainment/g36162536/ernest-hemingway-life-photos/?slide=1). Their authors are listed in order the images apper on my website.
+* Biography (all the images) are from [Esquire's website](https://www.esquire.com/entertainment/g36162536/ernest-hemingway-life-photos/?slide=1). Their authors are listed in order the images appering on my website.
   
   1. [Culture Club//Getty Images](https://hips.hearstapps.com/hmg-prod/images/ernest-hemingway-c-1917-news-photo-1618850200.?crop=1xw:1xh;center,top&resize=980:*)
   1. [Mondadori Portfolio//Getty Images](https://hips.hearstapps.com/hmg-prod/images/the-american-writer-and-journalist-ernest-hemingway-in-news-photo-1618850234.?crop=1xw:1xh;center,top&resize=980:*)
@@ -347,9 +347,9 @@ The project was deployed to Github Pages using the following steps:
 
 ### Code
 
-* The hamburger button with dropdown navbar menu was taken from [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/7525117e5cd144daa2a7b0c57843bbee/?child=first) by [Code Institute](https://codeinstitute.net/ie/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+IRL+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=14304747355&hsa_grp=128775288209&hsa_ad=635725005315&hsa_src=g&hsa_tgt=kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad=1&gclid=EAIaIQobChMI-6Pgu9jmgAMVzjcGAB3SFA1FEAAYASAAEgKGQvD_BwE). The comment about this is both in html and css files.
-* The code for social media icons was also taken from [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/7525117e5cd144daa2a7b0c57843bbee/?child=first) by [Code Institute](https://codeinstitute.net/ie/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+IRL+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=14304747355&hsa_grp=128775288209&hsa_ad=635725005315&hsa_src=g&hsa_tgt=kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad=1&gclid=EAIaIQobChMI-6Pgu9jmgAMVzjcGAB3SFA1FEAAYASAAEgKGQvD_BwE) and was used only in html file. The comment about this is in html file.
+* The code for hamburger button with dropdown navbar menu was taken from [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/7525117e5cd144daa2a7b0c57843bbee/?child=first) by [Code Institute](https://codeinstitute.net/ie/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+IRL+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=14304747355&hsa_grp=128775288209&hsa_ad=635725005315&hsa_src=g&hsa_tgt=kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad=1&gclid=EAIaIQobChMI-6Pgu9jmgAMVzjcGAB3SFA1FEAAYASAAEgKGQvD_BwE). The comment about it is both in html and css files.
+* The code for social media icons was also taken from [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/7525117e5cd144daa2a7b0c57843bbee/?child=first) by [Code Institute](https://codeinstitute.net/ie/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+IRL+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=14304747355&hsa_grp=128775288209&hsa_ad=635725005315&hsa_src=g&hsa_tgt=kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad=1&gclid=EAIaIQobChMI-6Pgu9jmgAMVzjcGAB3SFA1FEAAYASAAEgKGQvD_BwE) and was used only in html file. The comment about it is in html file.
 
 ## Acknowledgements
 
-I would like to thank my mentor Dick Vlaanderen for his help throughout the whole project, our facilitator Marko Tot for teaching me tips and tricks on how to make my project better. My groupmate Oleksiy Lazarenko for helping solve the bug that I had and gitpod-and-code-anywhere Slack channel as well as Tutor Support for helping me with my Codeanywhere issues.
+I would like to thank my mentor Dick Vlaanderen for his help throughout the whole project and our facilitator Marko Tot for teaching me tips and tricks on how to make my project better. Also, my groupmate Oleksiy Lazarenko for helping solving the bug that I had and gitpod-and-code-anywhere Slack channel as well as Tutor Support for helping me with my Codeanywhere issues.
