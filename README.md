@@ -2,11 +2,23 @@
 
 View the live project [here](https://nataliiasolomchak21.github.io/the-life-of-ernest-hemingway/)
 
-The Life of Ernest Hemingway is a single scrolling page website that includes evidence-based information about the life of one of the greatest authors of the 20th century. This website focuses on his professional life, so it will be handy to those who want to know about his books, quotes and overall journey to become one of the brightest minds of the last century.
+The Life of Ernest Hemingway is a single scrolling page website that includes evidence-based information about the life of one of the greatest authors of all time. This website focuses on his professional life, so it will be handy to those who want to know more about his books, quotes and overall journey to become one of the brightest minds of the last century.
 
 ![Screenshot of the website on mobile, tablet, laptop and desktop from Am I Resonsive website.](README-images/am-i-responsive.png)
 
 ## User Experience
+
+### Target Audience
+
+* Literature students - Those studying American literature could benefit from learning about Hemingway's major works amd place within literary history.
+* Casual readers- Those generally interested in biographies, 20th century authors, or American historical figures.
+* Hemingway enthusiasts - Those who have read his works and are interested in his life story.
+
+### Key Project Goals
+
+* Provide his biography with a focus on his professional life and his journey to become an author - Including major events, travels and accomplishements.
+* Showcase his notable works - Include short descriptions of some of his most famous books.
+* Cite inspirational quotes - Highlight memorable quotes that show his perspective on life.
 
 ### User Stories
 
@@ -68,18 +80,18 @@ I chose these six colours because I thought that they suited the theme of my web
 
 ### Final Design
 
-#### Mobile
+#### Mobile (360x640)
 
 ![Screenshot of final design of the website for mobile using Figma.](README-images/figma-design-mobile-one.png)
 ![Screenshot of final design of the website for mobile using Figma.](README-images/figma-design-mobile-two.png)
 
-#### Tablet
+#### Tablet (744x1133)
 
 ![Screenshot of final design of the website for tablet using Figma.](README-images/figma-design-tablet-one.png)
 ![Screenshot of final design of the website for tablet using Figma.](README-images/figma-design-tablet-two.png)
 ![Screenshot of final design of the website for tablet using Figma.](README-images/figma-design-tablet-three.png)
 
-#### Desktop
+#### Desktop (1440x1024)
 
 ![Screenshot of final design of the website for desktop using Figma.](README-images/figma-design-desktop-one.png)
 ![Screenshot of final design of the website for desktop using Figma.](README-images/figma-design-desktop-two.png)
@@ -151,7 +163,7 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
 
 * Multimedia section that includes embedded videos/recordings of Hemingway and media adaptations of his work.
 * Resources Section that list of books, biographies, scholars for learning more. Links to Hemingway Foundation, house tours, museum, etc.
-* Thank you page that will give clear feedback to user after they submitted the form as well as will have a "Go to Home page for clear navigation".
+* 404 page that will give clear feedback to user if any of the links don't work.
 
 ## Testing
 
@@ -201,18 +213,16 @@ Lighthouse(Chrome's developer tool) was used to check the performance of the web
 
 The website works well and is responsive on the following mobile devices and tablets:
 
+* Samsung Galaxy A51
+* Samsung Galaxy A34
+* OPPO A12
 * Moto G Power
-* iPhone SE
 * iPhone XR
 * iPhone 12 Pro
-* Pixel 5
 * Samsung Galaxy S8+
 * Samsung Galaxy S20 Ultra
 * iPad Air
 * iPad Mini
-* Surface Duo
-* Samsung Galaxy A51/71
-* Samsung Galaxy A34
 
 ### Browsers
 
