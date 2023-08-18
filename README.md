@@ -316,19 +316,19 @@ The project was deployed to Github Pages using the following steps:
 * Biography (all the images) are from [Esquire's website](https://www.esquire.com/entertainment/g36162536/ernest-hemingway-life-photos/?slide=1). Their authors are listed in order the images apper on my website.
   
   1. [Culture Club//Getty Images](https://hips.hearstapps.com/hmg-prod/images/ernest-hemingway-c-1917-news-photo-1618850200.?crop=1xw:1xh;center,top&resize=980:*)
-  2. [Mondadori Portfolio//Getty Images](https://hips.hearstapps.com/hmg-prod/images/the-american-writer-and-journalist-ernest-hemingway-in-news-photo-1618850234.?crop=1xw:1xh;center,top&resize=980:*)
-  3. [Fotosearch//Getty Images](https://hips.hearstapps.com/hmg-prod/images/ernest-hemingway-standing-outdoors-with-nurses-circa-1910s-news-photo-1618850360.?crop=1xw:1xh;center,top&resize=980:*)
-  4. [Historical//Getty Images](https://hips.hearstapps.com/hmg-prod/images/american-author-ernest-hemingway-in-his-soldiers-uniform-news-photo-1618850261.?crop=1xw:1xh;center,top&resize=980:*)
-  5. [Hulton Archive//Getty Images](https://hips.hearstapps.com/hmg-prod/images/headshot-of-author-ernest-hemingway-as-a-young-man-news-photo-1618851868.?crop=1xw:1xh;center,top&resize=980:*)
-  6. [Mondadori Portfolio//Getty Images](https://hips.hearstapps.com/hmg-prod/images/american-writer-ernest-hemingway-in-the-courtyard-of-his-news-photo-1618851524.?crop=1xw:1xh;center,top&resize=980:*)
-  7. [API//Getty Images](https://hips.hearstapps.com/hmg-prod/images/portrait-de-l-c3-a9crivain-am-c3-a9ricain-ernest-hemingway-en-1926-news-photo-1618858944.?crop=1xw:1xh;center,top&resize=980:*)
-  8. [Bettmann//Getty Images](https://hips.hearstapps.com/hmg-prod/images/left-to-right-gene-tunney-bernard-gimbel-ernest-hemingway-news-photo-1618854488.?crop=1xw:1xh;center,top&resize=980:*)
-  9. [Hulton Deutsch//Getty Images](https://hips.hearstapps.com/hmg-prod/images/the-american-novelist-ernest-hemingway-at-belchite-the-site-news-photo-1618854311.?crop=1xw:1xh;center,top&resize=980:*)
-  10. [Anthony Potter Collection//Getty Images](image.png)
-  11. [Bettmann//Getty Images](https://hips.hearstapps.com/hmg-prod/images/ernest-hemingway-receives-bronze-medal-from-col-edgar-e-news-photo-1618855422.?crop=1xw:1xh;center,top&resize=980:*)
-  12. [Mondadori Portfolio//Getty Images](https://hips.hearstapps.com/hmg-prod/images/portrait-of-american-writer-and-journalist-ernest-hemingway-news-photo-1618857024.?crop=1xw:1xh;center,top&resize=980:*)
-  13. [Alfred Eisenstaedt//Getty Images](https://hips.hearstapps.com/hmg-prod/images/gettyimages-50363938-1618855672.jpg?crop=1xw:1xh;center,top&resize=980:*)
-  14. [Loomis Dean//Getty Images](https://hips.hearstapps.com/hmg-prod/images/gettyimages-50363933-1618856309.jpg?crop=1xw:1xh;center,top&resize=980:*)
+  1. [Mondadori Portfolio//Getty Images](https://hips.hearstapps.com/hmg-prod/images/the-american-writer-and-journalist-ernest-hemingway-in-news-photo-1618850234.?crop=1xw:1xh;center,top&resize=980:*)
+  1. [Fotosearch//Getty Images](https://hips.hearstapps.com/hmg-prod/images/ernest-hemingway-standing-outdoors-with-nurses-circa-1910s-news-photo-1618850360.?crop=1xw:1xh;center,top&resize=980:*)
+  1. [Historical//Getty Images](https://hips.hearstapps.com/hmg-prod/images/american-author-ernest-hemingway-in-his-soldiers-uniform-news-photo-1618850261.?crop=1xw:1xh;center,top&resize=980:*)
+  1. [Hulton Archive//Getty Images](https://hips.hearstapps.com/hmg-prod/images/headshot-of-author-ernest-hemingway-as-a-young-man-news-photo-1618851868.?crop=1xw:1xh;center,top&resize=980:*)
+  1. [Mondadori Portfolio//Getty Images](https://hips.hearstapps.com/hmg-prod/images/american-writer-ernest-hemingway-in-the-courtyard-of-his-news-photo-1618851524.?crop=1xw:1xh;center,top&resize=980:*)
+  1. [API//Getty Images](https://hips.hearstapps.com/hmg-prod/images/portrait-de-l-c3-a9crivain-am-c3-a9ricain-ernest-hemingway-en-1926-news-photo-1618858944.?crop=1xw:1xh;center,top&resize=980:*)
+  1. [Bettmann//Getty Images](https://hips.hearstapps.com/hmg-prod/images/left-to-right-gene-tunney-bernard-gimbel-ernest-hemingway-news-photo-1618854488.?crop=1xw:1xh;center,top&resize=980:*)
+  1. [Hulton Deutsch//Getty Images](https://hips.hearstapps.com/hmg-prod/images/the-american-novelist-ernest-hemingway-at-belchite-the-site-news-photo-1618854311.?crop=1xw:1xh;center,top&resize=980:*)
+  1. [Anthony Potter Collection//Getty Images](image.png)
+  1. [Bettmann//Getty Images](https://hips.hearstapps.com/hmg-prod/images/ernest-hemingway-receives-bronze-medal-from-col-edgar-e-news-photo-1618855422.?crop=1xw:1xh;center,top&resize=980:*)
+  1. [Mondadori Portfolio//Getty Images](https://hips.hearstapps.com/hmg-prod/images/portrait-of-american-writer-and-journalist-ernest-hemingway-news-photo-1618857024.?crop=1xw:1xh;center,top&resize=980:*)
+  1. [Alfred Eisenstaedt//Getty Images](https://hips.hearstapps.com/hmg-prod/images/gettyimages-50363938-1618855672.jpg?crop=1xw:1xh;center,top&resize=980:*)
+  1. [Loomis Dean//Getty Images](https://hips.hearstapps.com/hmg-prod/images/gettyimages-50363933-1618856309.jpg?crop=1xw:1xh;center,top&resize=980:*)
 
 * Work section
   
@@ -336,10 +336,10 @@ The project was deployed to Github Pages using the following steps:
   * Other images of the books are from [Goodreads](https://www.goodreads.com/author/show/1455.Ernest_Hemingway).
   
     1. [The Sun Also Rises](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509802323i/3876.jpg)
-    2. [For Whom The Bell Toys](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492591524i/46170.jpg)
-    3. [A Clean Well-Lighted Place](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460473181i/553930.jpg)
-    4. [A Farewell to Arms](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1313714836i/10799.jpg)
-    5. [On Writing](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435405010i/42683.jpg)
+    1. [For Whom The Bell Toys](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492591524i/46170.jpg)
+    1. [A Clean Well-Lighted Place](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460473181i/553930.jpg)
+    1. [A Farewell to Arms](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1313714836i/10799.jpg)
+    1. [On Writing](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435405010i/42683.jpg)
    
 * Quotes section - the image is by [Kurt Hutton](https://www.pinterest.com.au/pin/750553094175906514/)
   
@@ -349,3 +349,5 @@ The project was deployed to Github Pages using the following steps:
 
 * The hamburger button with dropdown navbar menu was taken from [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/7525117e5cd144daa2a7b0c57843bbee/?child=first) by [Code Institute](https://codeinstitute.net/ie/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+IRL+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=14304747355&hsa_grp=128775288209&hsa_ad=635725005315&hsa_src=g&hsa_tgt=kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad=1&gclid=EAIaIQobChMI-6Pgu9jmgAMVzjcGAB3SFA1FEAAYASAAEgKGQvD_BwE). The comment about this is both in html and css files.
 * The code for social media icons was also taken from [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/7525117e5cd144daa2a7b0c57843bbee/?child=first) by [Code Institute](https://codeinstitute.net/ie/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+IRL+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=14304747355&hsa_grp=128775288209&hsa_ad=635725005315&hsa_src=g&hsa_tgt=kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad=1&gclid=EAIaIQobChMI-6Pgu9jmgAMVzjcGAB3SFA1FEAAYASAAEgKGQvD_BwE) and was used only in html file. The comment about this is in html file.
+
+## Acknowledgements
