@@ -210,7 +210,7 @@ Lighthouse(Chrome's developer tool) was used to check the performance of the web
 
 ### Manual Testing
 
-Manual testing was done on mobile device, tablet, laptop desktop.
+Manual testing was done on mobile device, tablet, laptop and desktop.
 
 ![Manual testing](README-images/manual-testing.png)
 
@@ -238,6 +238,15 @@ The website works in the following browsers:
 * Microsoft Edge
 
 In Firefox, the images in Home and Quotes sections are stretched. The images in Work section are smaller than they should be.
+
+### Unfixed Bugs
+
+* The links in navbar menu when clicked don't stay underlined when user is in particular section.
+* When you user clicks on "Go to Home page" button in Thank You page, it brings they back to index.html page but the header is hidden and doesn't have a fixed position. It all goes back to how it should be only when the page is refreshed.
+
+### Fixed Bugs
+
+* I had a problem with h2 headings of my sections. They wouldn't show up once you clicked on the link in navbar menu. My groupmate Oleksiy Lazarenko helped with that by suggesting adding scroll-padding-top to the asterisk selector.
 
 ## Technologies Used
 
