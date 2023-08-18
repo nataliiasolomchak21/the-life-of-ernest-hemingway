@@ -267,3 +267,36 @@ In Firefox, the images in Home and Quotes sections are stretched. The images in 
 
 * HTML5 was used to create the structure of the website.
 * CSS3 was used to style the website.
+
+## Deployment
+
+### Github Pages
+
+The project was deployed to Github Pages using the following steps:
+
+   1. Log in to Github or sign up (if you don't have an account)
+   2. Locate the repository for the project called 'the-life-of-ernest-hemingway'.
+   3. Go to Settings page.
+   4. Choose Pages in a navigational bar on the left-hand side.
+   5. Under 'Build and deployment', you'll see 'Source'. Choose 'Deploy to Branch' from dropdwon menu. 
+   6. Make sure that 'main' branch is selected and folder is set '/ (root)'. Click 'Save'.
+   7. Refresh the page and you'll see the link to your website.
+   8. Congratulations! Your website has been deployed.
+
+### How to Fork the Github Repository
+
+1. If you want to fork the repository log in to Github or create an account.
+2. Locate to the repository for the project called 'the-life-of-ernest-hemingway'.
+3. In the top right corner click on 'Fork' button. 
+4. Now you have a copy of the original repository in your Github account.
+
+### How to Clone the Github Repository
+
+1. If you want to clone the repository log in to Github or create an account.
+2. Go to the main page of the repository 'the-life-of-ernest-hemingway'.
+3. Click on '<> Code' and copy the URL from HTTPS.
+4. Open Git Bash.
+5. Change your current working directory to the location where you want your clone to be made.
+6. Type 'git clone' into your terminal window, paste the URL you copied earlier and press Enter to create youe local clone.
+
+    
