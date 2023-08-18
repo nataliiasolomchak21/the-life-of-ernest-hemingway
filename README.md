@@ -106,6 +106,7 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
 * The work section for desktop no white background as there is no need to add that much negative space.
 * The quotes section for tablet and desktop looks different as I decided to center the image.
 * There is no white background in the subscribe section as I thought there is no need for contrast there.
+* The footer doesn't have text next to the social media icons as I thought it was unnecessary to add it.
 
 ## Features
 
