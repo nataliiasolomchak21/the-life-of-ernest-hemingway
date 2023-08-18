@@ -335,11 +335,11 @@ The project was deployed to Github Pages using the following steps:
   * The Old Man and The Sea image is from [Wikipedia](https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea)
   * Other images of the books are from [Goodreads](https://www.goodreads.com/author/show/1455.Ernest_Hemingway).
   
-    1. [The Sun Also Rises](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509802323i/3876.jpg)
-    1. [For Whom The Bell Toys](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492591524i/46170.jpg)
-    1. [A Clean Well-Lighted Place](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460473181i/553930.jpg)
-    1. [A Farewell to Arms](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1313714836i/10799.jpg)
-    1. [On Writing](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435405010i/42683.jpg)
+    * [The Sun Also Rises](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509802323i/3876.jpg)
+    * [For Whom The Bell Toys](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1492591524i/46170.jpg)
+    * [A Clean Well-Lighted Place](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460473181i/553930.jpg)
+    * [A Farewell to Arms](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1313714836i/10799.jpg)
+    * [On Writing](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435405010i/42683.jpg)
    
 * Quotes section - the image is by [Kurt Hutton](https://www.pinterest.com.au/pin/750553094175906514/)
   
@@ -351,3 +351,4 @@ The project was deployed to Github Pages using the following steps:
 * The code for social media icons was also taken from [Love Running Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/7525117e5cd144daa2a7b0c57843bbee/?child=first) by [Code Institute](https://codeinstitute.net/ie/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+IRL+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=14304747355&hsa_grp=128775288209&hsa_ad=635725005315&hsa_src=g&hsa_tgt=kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad=1&gclid=EAIaIQobChMI-6Pgu9jmgAMVzjcGAB3SFA1FEAAYASAAEgKGQvD_BwE) and was used only in html file. The comment about this is in html file.
 
 ## Acknowledgements
+
