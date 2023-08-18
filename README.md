@@ -241,8 +241,8 @@ In Firefox, the images in Home and Quotes sections are stretched. The images in 
 
 ### Unfixed Bugs
 
-* The links in navbar menu when clicked don't stay underlined when user is in particular section.
-* When you user clicks on "Go to Home page" button in Thank You page, it brings they back to index.html page but the header is hidden and doesn't have a fixed position. It all goes back to how it should be only when the page is refreshed.
+* The links in navbar menu when clicked don't stay underlined when user is in particular section. I have tried different things to make them work but unfortunately I wasn't able to do that. I guess I need JavaScript for it.
+* When you user clicks on "Go to Home page" button in Thank You page, it brings they back to index.html page but the header is hidden and doesn't have a fixed position. It all goes back to how it should be only when the page is refreshed. I couldn't find a reason to that as "Go to Home page" is correctly connected to index.html.
 
 ### Fixed Bugs
 
