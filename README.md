@@ -324,7 +324,7 @@ The project was deployed to Github Pages using the following steps:
 ### Images
 
 * Home section (hero image) is from [Stockvault](https://www.stockvault.net/photo/200534/ernest-hemingway)
-* Biography (all the images) are from [Esquire's website](https://www.esquire.com/entertainment/g36162536/ernest-hemingway-life-photos/?slide=1). Their authors are listed in order the images appering on my website.
+* Biography (all the images) are from [Esquire's website](https://www.esquire.com/entertainment/g36162536/ernest-hemingway-life-photos/?slide=1). Their authors are listed in order the images appearing on my website.
   
   1. [Culture Club//Getty Images](https://hips.hearstapps.com/hmg-prod/images/ernest-hemingway-c-1917-news-photo-1618850200.?crop=1xw:1xh;center,top&resize=980:*)
   1. [Mondadori Portfolio//Getty Images](https://hips.hearstapps.com/hmg-prod/images/the-american-writer-and-journalist-ernest-hemingway-in-news-photo-1618850234.?crop=1xw:1xh;center,top&resize=980:*)
