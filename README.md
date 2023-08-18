@@ -335,7 +335,7 @@ The project was deployed to Github Pages using the following steps:
   1. [API//Getty Images](https://hips.hearstapps.com/hmg-prod/images/portrait-de-l-c3-a9crivain-am-c3-a9ricain-ernest-hemingway-en-1926-news-photo-1618858944.?crop=1xw:1xh;center,top&resize=980:*)
   1. [Bettmann//Getty Images](https://hips.hearstapps.com/hmg-prod/images/left-to-right-gene-tunney-bernard-gimbel-ernest-hemingway-news-photo-1618854488.?crop=1xw:1xh;center,top&resize=980:*)
   1. [Hulton Deutsch//Getty Images](https://hips.hearstapps.com/hmg-prod/images/the-american-novelist-ernest-hemingway-at-belchite-the-site-news-photo-1618854311.?crop=1xw:1xh;center,top&resize=980:*)
-  1. [Anthony Potter Collection//Getty Images](image.png)
+  1. [Anthony Potter Collection//Getty Images](https://hips.hearstapps.com/hmg-prod/images/american-author-ernest-hemingway-confers-with-an-officer-news-photo-1618853654.?crop=1xw:1xh;center,top&resize=980:*)
   1. [Bettmann//Getty Images](https://hips.hearstapps.com/hmg-prod/images/ernest-hemingway-receives-bronze-medal-from-col-edgar-e-news-photo-1618855422.?crop=1xw:1xh;center,top&resize=980:*)
   1. [Mondadori Portfolio//Getty Images](https://hips.hearstapps.com/hmg-prod/images/portrait-of-american-writer-and-journalist-ernest-hemingway-news-photo-1618857024.?crop=1xw:1xh;center,top&resize=980:*)
   1. [Alfred Eisenstaedt//Getty Images](https://hips.hearstapps.com/hmg-prod/images/gettyimages-50363938-1618855672.jpg?crop=1xw:1xh;center,top&resize=980:*)
