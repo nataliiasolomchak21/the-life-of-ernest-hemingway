@@ -216,18 +216,24 @@ Manual testing was conducted on mobile, tablet, laptop and desktop.
 
 #### Screen sizes
 
-The website works well and is responsive on the following mobiles and tablets:
+The website works well and is responsive on the following mobiles and tablets (these were tested manually):
 
-* Samsung Galaxy A51
 * Samsung Galaxy A34
 * OPPO A12
-* Moto G Power
-* iPhone XR
-* iPhone 12 Pro
 * Samsung Galaxy S8+
-* Samsung Galaxy S20 Ultra
 * iPad Air
 * iPad Mini
+
+Samsung Galaxy A34
+
+![Samsung Galaxy A34 testing](README-images/samsung-galaxy-a-thirty-four.jpg)
+
+OPPO A12
+
+![OPPO A12 testing](README-images/oppo-a-twelve-testing.jpg)
+![Samsung Galaxy S8+ testing](README-images/samsung-galaxy-s-eight-plus-testing.png)
+![iPad Air testing](README-images/ipad-air-testing.png)
+![iPad Mini testing](README-images/ipad-mini-testing.png)
 
 ### Browsers
 
