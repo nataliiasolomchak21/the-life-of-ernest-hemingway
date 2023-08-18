@@ -231,8 +231,11 @@ Samsung Galaxy A34
 OPPO A12
 
 ![OPPO A12 testing](README-images/oppo-a-twelve-testing.jpg)
+
 ![Samsung Galaxy S8+ testing](README-images/samsung-galaxy-s-eight-plus-testing.png)
+
 ![iPad Air testing](README-images/ipad-air-testing.png)
+
 ![iPad Mini testing](README-images/ipad-mini-testing.png)
 
 ### Browsers
@@ -249,6 +252,8 @@ In Firefox, the images in Home and Quotes sections are stretched. The images in 
 
 * The links in navbar menu when clicked don't stay underlined when user is in particular section. I have tried various things to get them working but unfortunately I wasn't able to do so. I assume JavaScript is needed for these feature.
 * When you user clicks on "Go to Home page" button in Thank You page, it brings they back to index.html page but the header is hidden and doesn't have a fixed position. It only goes back to how it should be when the page is refreshed. I couldn't determine the reason as "Go to Home page" is correctly connected to index.html.
+
+![Unfixed bug](README-images/unfixed-bug.jpg)
 
 ### Fixed Bugs
 
