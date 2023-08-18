@@ -352,3 +352,4 @@ The project was deployed to Github Pages using the following steps:
 
 ## Acknowledgements
 
+I would like to thank my mentor Dick Vlaanderen for his help throughout the whole project, our facilitator Marko Tot for teaching me tips and tricks on how to make my project better. My groupmate Oleksiy Lazarenko for helping solve the bug that I had and gitpod-and-code-anywhere Slack channel as well as Tutor Support for helping me with my Codeanywhere issues.
