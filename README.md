@@ -206,9 +206,13 @@ Lighthouse(Chrome's developer tool) was used to check the performance of the web
 
 * Desktop
   
-![Screenshot of Lighthouse score for desktops](README-images/lighthouse-score-desktop.png)
+![Lighthouse score for desktops](README-images/lighthouse-score-desktop.png)
 
 ### Manual Testing
+
+Manual testing was done on mobile device, tablet, laptop desktop.
+
+![Manual testing](README-images/manual-testing.png)
 
 #### Screen sizes
 
