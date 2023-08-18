@@ -112,7 +112,7 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
 
 ### Existing Features
 
-* __Navigational Bar__
+* __Navigation Bar__
 
   * Featured at the top of the website, the fully responsive navigation bar includes links to the HistoryHere Logo, Home, Biography, Work, Quotes and Subscribe sections.
   * This feature will allow user to easily navigate between sections without the need to scroll up or down to get to a certain section.
@@ -154,7 +154,7 @@ For the font, I used the Baskervville and Marcellus font families. The text was 
   
   ![Subscribe](README-images/subscribe-section-desktop.png)
   
-* __Footer__
+* __The Footer__
 
   * The footer enables the user to visit social media pages, each being open in a separate page.
   
